@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.dancraft","l":"Main"},{"p":"com.dancraft","l":"Persona"}];updateSearchResults();
